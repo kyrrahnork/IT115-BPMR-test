@@ -3,4 +3,5 @@
 ## Team Order:
 
 1. kyrrah - Team lead
-2. 
+2. Luiz
+3. Aurora
