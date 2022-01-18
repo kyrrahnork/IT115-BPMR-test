@@ -4,4 +4,4 @@
 
 1. kyrrah - Team lead
 2. Luiz
-3. Aurora
+3. Louis
